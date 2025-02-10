@@ -7,7 +7,7 @@ from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
 # Load the CSV file
-data = pd.read_csv("D:\Shampoo Sales Forecast\Exponential_Smoothing_Forcast\shampoo-sales.csv")
+data = pd.read_csv("D:\Shampoo Sales Forecast\Exponential_Smoothing_Forecast\shampoo-sales.csv")
 
 # Display the first few rows
 #print(data.head())
