@@ -4,7 +4,7 @@ from prophet import Prophet
 import matplotlib.ticker as mticker
 
 # Load the CSV file
-data = pd.read_csv("D:\Shampoo Sales Forecast\Prophet_Forcast\shampoo-sales.csv")
+data = pd.read_csv("D:\Shampoo Sales Forecast\Prophet_Forecast\shampoo-sales.csv")
 
 # Convert 'Month' to datetime format - uncomment and modify this line
 data['Month'] = pd.to_datetime(data['Month'])  # Remove the format parameter if your dates are already in standard format
