@@ -94,6 +94,16 @@ The forecast is shown in a red dashed line, and the actual sales are plotted as 
 ````bash
 pip install -r requirements.txt
 ````
+
+## Screenshots
+
+Here is a screenshot of the Exponential Smoothing Forecast Model:
+![Exponential Smoothing Forecast Model Screenshot](https://github.com/Sakushal/Python-Forecasting-Model/blob/main/Exponential_Smoothing_Forecast/Exponential%20Smoothing%20img.png)
+
+Here is a screenshot of the Prophet Forecast Model:
+![Prophet Forecast Model Screenshot](https://github.com/Sakushal/Python-Forecasting-Model/blob/main/Prophet_Forecast/Prophet%20img.png)
+
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
 
