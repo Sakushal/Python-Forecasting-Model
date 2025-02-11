@@ -39,7 +39,7 @@ python forecast_shampoo_sales.py
 - Load and process the data from the CSV file.
 - Perform a stationarity test (ADF test) and differencing if necessary.
 - Apply both the Exponential Smoothing and Prophet models.
-- Forecast the next 12 months of shampoo sales.
+- Forecast the next 12 months of shampoo sales in Exponential Smoothing and next 20 months of sales in Prophet model.
 - Plot the actual sales and the forecasted values from both models.
 - Compare the forecasts from Exponential Smoothing (Holt-Winters) and Prophet.
 
